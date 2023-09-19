@@ -11,7 +11,7 @@ for i in range(2,3):    # create 2 repeted tests
   driver.find_element(By.CSS_SELECTOR, ".icon-2x.icon-signout").click()
 
   # driver.find_element(By.XPATH, '//input[@id="twotabsearchtextbox"]').send_keys('RTX 3090'+(Keys.RETURN))
-
+#scienceisautomation
   time.sleep(3) # 2 seconds
 
   # Close the browser
