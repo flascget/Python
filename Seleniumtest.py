@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By  # Import the 'By' class
 import time
 for i in range(2,3):    # create 2 repeted tests
