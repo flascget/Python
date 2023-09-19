@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By  # Import the 'By' class
 import time
-for i in range(2,3):    # create 2 repeted tests
+for i in range(2):
   driver=webdriver.Chrome()
   driver.get("https://the-internet.herokuapp.com/login")
 #search for RTX 3090
